@@ -48,7 +48,7 @@ For more details on Veriltor Refer:https://www.veripool.org/verilator/
 #### Circuit Diagram of JK flip flop in eSim
 ![Screenshot (13)](https://user-images.githubusercontent.com/96101971/156823161-6d7e32e5-9721-480c-b3aa-cfafcdb55cdb.png)
 #### Verilog Code for JK flip flop
-![Screenshot (16)](C:/Users/student/Pictures/Screenshots/Screenshot%202022-10-08%20142200.jpg)
+![Screenshot (16)](file:///C:/Users/student/Pictures/Screenshots/Screenshot%202022-10-08%20142200.jpg)
 ### 7. Makerchip
 ```\TLV_version 1d: tl-x.org
 \SV
