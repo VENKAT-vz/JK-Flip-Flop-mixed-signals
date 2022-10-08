@@ -113,7 +113,7 @@ endmodule
 ### 12. Steps to Run this Project
    1. Open a new terminal<br />
    2. Clone this project using the following command:<br />
-   ```git clone 
+   ```git clone https://github.com/VENKAT-vz/JK-Flip-Flop-mixed-signals.git```<br />
    3. Change directory:<br />
    ```cd esim-workspace/venkatesh_jk```<br />
    4. Run ngspice:<br />
